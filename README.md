@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá queridos alunos tudo bem? vamos dar continuidade aos nossos projetos. 👋
 
 <!--
 **Lilianpensamento/lilianpensamento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
