@@ -1,4 +1,4 @@
-### Olá queridos alunos tudo bem? vamos dar continuidade aos nossos projetos. 👋
+### Olá tudo bem? Sou Lilian Professora de Ciências, Biologia, Química e no ano de 2023 também de Pensamento computacional. Trabalho no Colégio Estadual Santos Dumont, na cidade de Santa Cruz de Monte Castelo.
 
 <!--
 **Lilianpensamento/lilianpensamento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
